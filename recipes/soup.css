@@ -1,0 +1,9 @@
+body{font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:grey
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
